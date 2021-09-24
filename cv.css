@@ -1,0 +1,52 @@
+h1 {
+	font-family: fantasy;
+}
+
+
+#foto {
+	margin: auto;
+	width: 70%;
+	display: block;
+}
+
+
+#foto:hover {
+	border: 5px solid darkblue;
+}
+
+
+p {
+	color: darkblue;
+}
+
+
+.texto-largo {
+	font-family: "Bahnschrift";
+	font-size: 14pt;
+}
+
+
+#cv {
+	background-color: seashell;
+	width: 50%;
+	margin: 40pt auto;
+	padding: 20pt;
+	border: 5px solid darkblue;
+	box-shadow: 0px 5px 5px 5px darkgray;
+}
+
+
+#nombre {
+	text-align: center;
+}
+
+
+.caja-lista {
+	border: 3px solid darkblue;
+	padding: 10pt;
+	box-sizing: border-box;
+	text-align: left;
+	display: inline-block;
+	margin: 10pt;
+	background-color: azure;
+}
